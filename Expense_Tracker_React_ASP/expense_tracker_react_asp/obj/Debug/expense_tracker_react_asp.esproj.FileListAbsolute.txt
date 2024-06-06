@@ -1,0 +1,1 @@
+C:\Users\hejhej\Documents\GitHub\Expense-Tracker\Expense_Tracker_React_ASP\Expense_Tracker_React_ASP\obj\Debug\expense_tracker_react_asp.esproj.CoreCompileInputs.cache
